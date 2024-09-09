@@ -1,0 +1,6 @@
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\ENTITY\obj\Debug\ENTITY.pdb

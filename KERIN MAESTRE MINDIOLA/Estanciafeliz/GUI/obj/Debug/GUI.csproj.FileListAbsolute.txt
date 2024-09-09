@@ -1,0 +1,14 @@
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\GUI.exe.config
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\GUI.exe
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\GUI.pdb
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\BLL.dll
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\ENTITY.dll
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\DAL.dll
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\BLL.pdb
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\ENTITY.pdb
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\bin\Debug\DAL.pdb
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\obj\Debug\GUI.exe
+C:\Users\dilan\source\repos\EstanciaFeliz_Diland\GUI\obj\Debug\GUI.pdb

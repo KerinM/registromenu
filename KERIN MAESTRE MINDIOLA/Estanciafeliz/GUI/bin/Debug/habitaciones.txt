@@ -1,0 +1,2 @@
+101;Economica;150000
+102;Estandar;200000
